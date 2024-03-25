@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid;
+
+}
+
+table thead {
+    background-color: #414141; 
+    color: white; 
+    font-weight: bold; 
+    font-size: 18px;
+    height: 50px;
+}
+table {
+    margin-left: 370px;
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
